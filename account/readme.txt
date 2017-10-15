@@ -1,0 +1,1 @@
+利用jwt生成和逆向运算token，加上security的权限验证拦截实现只认token，不在意cookie，甚至可以无cookie
